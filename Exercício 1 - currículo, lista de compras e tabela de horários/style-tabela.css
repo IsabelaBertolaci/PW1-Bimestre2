@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 215, 234);
+    margin: 20px;
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+        flex-direction: column;
+        align-items: center;     
+        justify-content: center;
+  }
+  h1{
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(238, 101, 147);
+      background-color: whitesmoke;
+}
+h2{
+    background-color: whitesmoke;
+}
+.nav{
+    font-size: 23px;
+    margin: 10px;
+    color: palevioletred;
+    font-weight: bold;
+}
+
+.nav:hover{
+    cursor: pointer;
+    color:salmon;
+}
+
+table{
+    color: black;
+    background-color: black;
+    margin: 20px;
+}
+
+tr{
+    background-color: whitesmoke;
+}
+
+.intervalo{
+    background-color: rgb(255, 254, 203);
+}
