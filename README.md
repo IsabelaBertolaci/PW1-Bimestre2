@@ -56,5 +56,7 @@ PW1-Bimestre2
 
 3. ✨ Abra os arquivos index.html no navegador!
 
-## 💌 Autor
+---
+
+## 💌 Autora
 Desenvolvido com carinho por Isabela Bertolaci Lima Leite 🌸
