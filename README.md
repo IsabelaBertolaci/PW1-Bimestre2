@@ -13,10 +13,10 @@ O objetivo foi criar páginas web simples utilizando **HTML** e **CSS**, abordan
 Com esses links, é possível acessar a cada uma das atividades realizadas no Git Pages.
 
 <li>
-   <a class= "nav" href="./Tela de login/index.html">Tela de login</a> 
-   <a class= "nav" href="./ex1/index.html">Currículo</a> 
-   <a class= "nav" href="./ex1/lista-compras.html">Lista de compras</a> 
-   <a class= "nav" href="./ex1/tabela.html">Tabela de horários</a> 
+   <a class= "nav" href="./Tela de login/index.html">Tela de login</a> <br> 
+   <a class= "nav" href="./ex1/index.html">Currículo</a> <br>
+   <a class= "nav" href="./ex1/lista-compras.html">Lista de compras</a> <br>
+   <a class= "nav" href="./ex1/tabela.html">Tabela de horários</a> <br>
 </li>
 
 ---
