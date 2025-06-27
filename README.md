@@ -47,7 +47,7 @@ Com esses links, é possível acessar a cada uma das atividades realizadas.
 PW1-Bimestre2
 ├── Login
 │   └── index.html
-├── Exercício 1 - currículo, lista de compras e tabela de horários
+├── Ex 1
 │   ├── index.html
 │   ├── style.css
 │   ├── lista-compras.html
