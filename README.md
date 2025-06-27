@@ -10,7 +10,7 @@ O objetivo foi criar páginas web simples utilizando **HTML** e **CSS**, abordan
 
 ## 🍰 Links para acesso dos projetos
 
-Com esses links, é possível acessar a cada uma das atividades realizadas.
+Com esses links, é possível acessar a cada uma das atividades realizadas no Git Pages.
 <li>  
    <ul>
    <a class= "nav" href="./Tela de login/index.html">Tela de login</a>
