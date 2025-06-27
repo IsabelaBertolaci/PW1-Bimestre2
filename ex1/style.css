@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 215, 234);
+    margin: 20px;
+    padding: 0px;
+  }
+
+.nav{
+    font-size: 23px;
+    margin: 10px;
+    color: palevioletred
+}
+
+.nav:hover{
+    cursor: pointer;
+    color:salmon;
+}
+
+h1{
+    margin-bottom: 20px;
+    text-align: center;
+    color: rgb(238, 101, 147);
+    background-color: whitesmoke;
+}
+h2{
+    background-color: whitesmoke;
+}
+a{
+    font-weight: bold;
+    font-size: 25px;
+    color:  rgb(238, 101, 147);
+}
