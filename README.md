@@ -8,6 +8,16 @@ O objetivo foi criar páginas web simples utilizando **HTML** e **CSS**, abordan
 
 ---
 
+## 🍰 Links para acesso dos projetos
+
+Com esses links, é possível acessar a cada uma das atividades realizadas.
+   <a class= "nav" href="./Tela de login/index.html">Tela de login</a>
+   <a class= "nav" href="./index.html">Currículo</a>
+   <a class= "nav" href="./lista-compras.html">Lista de compras</a>
+   <a class= "nav" href="./tabela.html">Tabela de horários</a>
+
+---
+
 ## 🌷 Funcionalidades Desenvolvidas
 
 - 🔐 **Tela de Login**  
