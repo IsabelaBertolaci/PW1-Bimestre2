@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário 1</title>
+</head>
+
+<style>
+    body{
+        text-align: center;
+        background-color: lightblue;
+    }
+
+    h1{
+        text-align: center;
+        background-color: rgb(71, 183, 221);
+        color: whitesmoke;
+        padding: 10px;
+        margin-bottom: 30px;
+    }
+    
+    input {
+        cursor: pointer;
+        background-color: lightblue;
+    }
+
+    .moldura {
+        background-color: white;
+        border: 2px solid gray;
+        border-radius: 10px;
+        padding: 20px;
+        margin: 0 auto;
+        max-width: 400px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    
+    input, select, textarea {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    textarea{
+        background-color: lightblue;
+    }
+
+    input[type="submit"],
+    input[type="reset"] {
+    margin: 10px 5px;
+    padding: 5px 15px;
+    }
+
+    input[type="radio"],
+    input[type="checkbox"]{
+    accent-color:rgb(71, 183, 221);
+    }
+
+    select{
+        background-color: lightblue;
+    }
+
+    input[type="submit"]:hover,
+    input[type="reset"]:hover{
+        background-color: rgb(71, 183, 221);
+        color: white;
+        opacity: 0.8;
+    }
+
+    
+   
+</style>
+
+<body>
+    <h1>CADASTRO DE USUÁRIO</h1>
+
+    <div class= "moldura">
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome">
+        <br><br>
+        <label for="password">Senha:</label>
+        <input type="password" id="password" name="password">
+    
+
+
+    
+        <p>Sexo: <input type="radio" id="html" name="Sexo" value="HTML">
+            <label for="html">Feminino</label>
+    
+            <input type="radio" id="html" name="Sexo" value="HTML">
+            <label for="html">Masculino</label> </p>
+        
+    
+    
+    
+        <p>Filmes preferidos: <input type="checkbox" id="Comédia" name="Comédia" value="Comédia">
+            <label for="Comédia">Comédia</label>
+            <input type="checkbox" id="Terror" name="Terror" value="Terror">
+            <label for="Terror">Terror</label>
+            <input type="checkbox" id="Ficção" name="Ficção" value="Ficção">
+            <label for="Ficção">Ficção</label></p>
+    
+
+      <p>
+        Estado:
+        <select name="estado">
+            <option>São Paulo</option>
+            <option>Rio de Janeiro</option>
+            <option>Minas Gerais</option>
+            <option>Bahia</option>
+            <option>Santa Catarina</option>
+        </select>
+      </p>
+
+    <textarea name="mensagem" rows="10" cols="30" placeholder="Escreva aqui o estilo de filmes que você não gostaria de receber como recomendação.">
+
+    </textarea> <br> 
+
+    <input type="submit" value="Enviar" class="btn" onclick="alert('Sucesso! Filmes e séries de acordo com seu gosto serão recomentados todas as sextas em seu email.')">
+    <input type="reset"  value="Limpar">
+
+    </div>
+
+    </form>
+
+</body>
+</html>
