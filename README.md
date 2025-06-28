@@ -15,6 +15,7 @@ Com esses links, é possível acessar a cada uma das atividades realizadas no Gi
    <a class= "nav" href="./ex1/index.html">Currículo</a> <br>
    <a class= "nav" href="./ex1/lista-compras.html">Lista de compras</a> <br>
    <a class= "nav" href="./ex1/tabela.html">Tabela de horários</a> <br>
+   <a class= "nav" href="./Formulario/index.html">Formulário</a> <br>
 
 
 ---
@@ -32,6 +33,9 @@ Com esses links, é possível acessar a cada uma das atividades realizadas no Gi
 
 - 🕒 **Tabela de Horários**  
   Tabela semanal organizada com os horários e atividades escolares.
+
+ - 📋 **Formulário**  
+  Página de formulário com diferentes recursos e áreas para preenchimento.
 
 ---
 
@@ -55,6 +59,8 @@ PW1-Bimestre2
 │   ├── style-lista.css
 │   ├── tabela.html
 │   └── style-tabela.css
+├── Formulário
+│   └── index.html
 └── README.md
 ```
 
